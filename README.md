@@ -1,7 +1,5 @@
 # Marketing Tool
 
-This project is a monorepo containing the frontend and backend for the Marketing Tool application.
-
 ## Project Structure
 
 ```
