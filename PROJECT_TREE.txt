@@ -1,0 +1,42 @@
+marketing-tool/
+├── .git/
+├── .gitignore
+├── .next/
+├── node_modules/
+├── eslint.config.mjs
+├── next-env.d.ts
+├── next.config.ts
+├── package.json
+├── package-lock.json
+├── postcss.config.mjs
+├── README.md
+├── tsconfig.json
+├── lib/
+├── public/
+├── styles/
+├── types/
+└── src/
+    ├── app/
+    │   ├── favicon.ico
+    │   ├── globals.css
+    │   ├── layout.tsx
+    │   ├── page.tsx
+    │   ├── analytics/
+    │   ├── campaigns/
+    │   ├── dashboard/
+    │   ├── templates/
+    │   └── users/
+    ├── components/
+    │   ├── HeroSection.tsx
+    │   ├── Navbar.tsx
+    │   ├── QuickActions.tsx
+    │   └── dashboard/
+    │       ├── ActivityFeed.tsx
+    │       ├── CampaignTable.tsx
+    │       └── StatsCards.tsx
+    ├── hooks/
+    ├── services/
+    └── store/
+
+# Generated: 2026-02-15
+# Tool: repo tree snapshot (text)
